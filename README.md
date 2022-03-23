@@ -1,5 +1,5 @@
 # hello-world
-Repostiorio inicial de pruebas.
+Repostiorio inicial de pruebas.  
 My name is **Jose Manuel**
 I live in *Barcelona*
 1. I like running
